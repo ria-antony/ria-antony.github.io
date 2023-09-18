@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"publications": [
 		{
 			"Title": "Finding Home: Understanding How Music Supports Listeners' Mental Health through a Case Study of BTS",
-			"Director": "2021",
-			"Rating": "ISMIR 2021",
-			"Year": "https://archives.ismir.net/ismir2021/paper/000044.pdf"
+			"Publication Year": "2021",
+			"Conference": "ISMIR 2021",
+			"URL": "https://archives.ismir.net/ismir2021/paper/000044.pdf"
 		},
 		{
 			"Title": "Understanding the Influence of Music on People's Mental Health Through Dynamic Music Engagement Model",
-			"Director": "2023",
-			"Rating": "iConference 2023",
-			"Year": "https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/2/3760/files/2023/04/DynamicMusicEngagementModel_Preprint.pdf"
+			"Publication Year": "2023",
+			"Conference": "iConference 2023",
+			"URL": "https://link.springer.com/chapter/10.1007/978-3-031-28035-1_8"
 		},
 		{
 			"Title": "Toxic By Design: Exploring the Relationship of Game Affordances and Negative Behavior",
-			"Director": "2023",
-			"Rating": "iConference 2023",
-			"Year": "https://hdl.handle.net/2142/117380"
+			"Publication Year": "2023",
+			"Conference": "iConference 2023",
+			"URL": "https://hdl.handle.net/2142/117380"
 		}
 	]
 }
